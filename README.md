@@ -16,3 +16,5 @@ The web app was built in Python using the following libraries:
 - scipy
 - bkharts
 - regex
+
+The web app is deployed on heroku : https://spam-detecctor-online.herokuapp.com/
